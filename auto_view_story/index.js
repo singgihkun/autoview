@@ -39,7 +39,7 @@ exports.__esModule = true;
 var instagram_private_api_1 = require("instagram-private-api");
 var lodash_1 = require("lodash");
 var inquirer = require("inquirer");
-console.log("\n  - Instagram Auto View Story -\n  Contact? me@aldi.dev (Email) / @aldinp16 (Twitter)\n");
+console.log("\n  - Instagram Auto View Story -\n  Contact? iamsinggihkun@gmail.com (Email) / @fuckqod (Twitter)\n");
 var ig = new instagram_private_api_1.IgApiClient();
 // Generate random number with range 
 function generateRandomNumber(min, max) {
